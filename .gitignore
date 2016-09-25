@@ -1,0 +1,10 @@
+target/
+/bin/
+/db/
+.eclipse
+/logs/tmp/
+.cache
+/.settings/*.prefs
+*.launch
+*.project
+*.classpath
